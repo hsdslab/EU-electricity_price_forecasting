@@ -2,7 +2,7 @@
 
 This repository contains supplementary codes and datasets for the scientific article titled *"Artificial Intelligence-Based Modelling of European Electricity Prices Using SHAP Values Based on Open-Source Data and Models"*.
 
-Supplementary codes and datasets for the article: [link]
+[link to the article]
 
 ## Repository Structure
 
