@@ -12,7 +12,7 @@ This repository contains supplementary codes and datasets for the scientific art
   - Frequency standardization to hourly
   - Feature extraction
   - Missing value handling
-- **`data_lag.ipynb`**:
+- [**`data_lag.ipynb`**](./source/processing/data_lag.ipynb):
   - Code for creating lagged input and output datasets for model training from the standardized data
 
 ### `source/models`
