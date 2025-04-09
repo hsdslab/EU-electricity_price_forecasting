@@ -19,7 +19,7 @@ This repository contains supplementary codes and datasets for the scientific art
 - **`cb_optuna.ipynb`**:
   - CatBoost hyperparameter optimization, training, and evaluation
   - Covers the two time periods described in the article
-  - Uses inputs and outputs created with `data_lag.ipynb`
+  - Uses inputs and outputs created with [`data_lag.ipynb`](./source/processing/data_lag.ipynb)
 - **`dnn_optuna.ipynb`**:
   - Same as above, implemented with a deep neural network
 - **`rf_optuna.ipynb`**:
