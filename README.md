@@ -7,7 +7,7 @@ This repository contains supplementary codes and datasets for the scientific art
 ## Repository Structure
 
 ### `source/processing`
-- **`dataproc.ipynb`**: 
+- [**`dataproc.ipynb`**](./source/processing/dataproc.ipynb): 
   - Code for creating standardized data from ENTSO-E datasets
   - Frequency standardization to hourly
   - Feature extraction
