@@ -15,7 +15,7 @@ This repository contains supplementary codes and datasets for the scientific art
 - [**`data_lag.ipynb`**](./source/processing/data_lag.ipynb):
   - Code for creating lagged input and output datasets for model training from the standardized data
 
-### [`source/models`](.source/models)
+### [`source/models`](./source/models)
 - **`cb_optuna.ipynb`**:
   - CatBoost hyperparameter optimization, training, and evaluation
   - Covers the two time periods described in the article
