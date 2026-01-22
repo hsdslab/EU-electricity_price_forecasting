@@ -1,8 +1,8 @@
 # Artificial Intelligence-Based Modelling of European Electricity Prices Using SHAP Values
 
-This repository contains supplementary codes and datasets for the scientific article titled *"Artificial Intelligence-Based Modelling of European Electricity Prices Using SHAP Values Based on Open-Source Data and Models"*.
+This repository contains supplementary codes for the scientific article titled *"Industry-adaptable explainable AI based methodology for forecasting electricity prices"*.
 
-[link to the article]
+https://doi.org/10.1016/j.ecmx.2026.101583
 
 ## Repository Structure
 
@@ -26,6 +26,3 @@ This repository contains supplementary codes and datasets for the scientific art
   - Same as above, implemented with a random forest
 - [**`svm_optuna.ipynb`**](./source/models/svm_optuna.ipynb):
   - Same as above, implemented with a support vector machine
-
-## Data
-Collected data is available at: [link]
