@@ -26,3 +26,6 @@ https://doi.org/10.1016/j.ecmx.2026.101583
   - Same as above, implemented with a random forest
 - [**`svm_optuna.ipynb`**](./source/models/svm_optuna.ipynb):
   - Same as above, implemented with a support vector machine
+
+
+Biró, B., Kiss, C., Molontay, R., & Aszódi, A. (2026). Industry-adaptable explainable AI based methodology for forecasting electricity prices. Energy Conversion and Management: X, 101583.
